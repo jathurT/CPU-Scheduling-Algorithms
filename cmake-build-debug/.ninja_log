@@ -1,0 +1,24 @@
+# ninja log v6
+4	258	7624449007821607	CMakeFiles/Ass1.dir/main.c.obj	23add9ffc52eea96
+3	168	7624454103905172	CMakeFiles/cpu_scheduler.dir/main.c.obj	aafb94cff6014352
+9	188	7624454103975147	CMakeFiles/cpu_scheduler.dir/process.c.obj	f3d3d8800f2b35d4
+21	174	7624454104092412	CMakeFiles/cpu_scheduler.dir/sjf.c.obj	bbc8fe7d8f360335
+26	187	7624454104147196	CMakeFiles/cpu_scheduler.dir/roundrobin.c.obj	9eb243e47ad273c
+14	177	7624454104025320	CMakeFiles/cpu_scheduler.dir/fcfs.c.obj	1c7712c9edc7ba8
+32	196	7624454104200648	CMakeFiles/cpu_scheduler.dir/priority.c.obj	3c992320a8c5ae78
+196	355	7624454105845129	cpu_scheduler.exe	dca86bf28f73ce46
+24	174	7624466179261414	CMakeFiles/cpu_scheduler.dir/sjf_preemptive.c.obj	2a61461196965e92
+16	178	7624466179191430	CMakeFiles/cpu_scheduler.dir/sjf_non_preemptive.c.obj	ee803681358f754f
+9	180	7624466179111424	CMakeFiles/cpu_scheduler.dir/main.c.obj	aafb94cff6014352
+37	182	7624466179391436	CMakeFiles/cpu_scheduler.dir/priority_preemptive.c.obj	7aef4661b197fa2e
+30	185	7624466179331418	CMakeFiles/cpu_scheduler.dir/priority_non_preemptive.c.obj	df0a8fac29b37baf
+185	367	7624466180879714	cpu_scheduler.exe	8542899dec2ffab
+20	155	7624483328047005	CMakeFiles/cpu_scheduler.dir/sjf_non_preemptive.c.obj	ee803681358f754f
+11	157	7624483327953140	CMakeFiles/cpu_scheduler.dir/process.c.obj	f3d3d8800f2b35d4
+15	158	7624483328003097	CMakeFiles/cpu_scheduler.dir/fcfs.c.obj	1c7712c9edc7ba8
+25	161	7624483328097098	CMakeFiles/cpu_scheduler.dir/sjf_preemptive.c.obj	2a61461196965e92
+31	169	7624483328153918	CMakeFiles/cpu_scheduler.dir/roundrobin.c.obj	9eb243e47ad273c
+12	136	7624485576873509	CMakeFiles/cpu_scheduler.dir/priority_non_preemptive.c.obj	df0a8fac29b37baf
+19	145	7624485576943524	CMakeFiles/cpu_scheduler.dir/priority_preemptive.c.obj	7aef4661b197fa2e
+5	145	7624485576804319	CMakeFiles/cpu_scheduler.dir/main.c.obj	aafb94cff6014352
+145	335	7624485578209593	cpu_scheduler.exe	8542899dec2ffab
